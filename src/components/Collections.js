@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./Collections.css";
+import "../Styles/Collections.css";
 
 const Collections = () => {
   return (
