@@ -1,0 +1,14 @@
+.App {
+    font-family: 'Proxima Nova', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #2c2e2f;
+}
+
+a {
+    text-decoration: none;
+}
